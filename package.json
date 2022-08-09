@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0",
+    "node": "^18.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "react-dashboard",
+  "version": "1.0.0",
+  "main": "notesModel.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

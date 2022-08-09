@@ -1,0 +1,111 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.div1{
+    background-color: wheat;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    height: 1000px;
+    
+}
+form{
+    background-color: whitesmoke;
+    margin: 40px;
+    padding: 20px;
+}
+h4{
+    text-transform: capitalize;
+    padding: 10px;
+}
+#table{
+    /* margin-left:50px ; */
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 100px;
+    height: 100px;
+    margin-left: 0px;
+}
+th{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    height: 10px;
+    text-transform: capitalize;
+    font-size: 15px;
+    text-align: left;
+}
+footer{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    margin-left: 100px;
+}
+
+.submit{
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+
+}
+.button{
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.button,.submit:hover{
+    background-color: lightblue;
+}
+
+.total1{
+    border: 1px solid black;
+}
+.total2{
+    border: 2px solid black;
+}
+
+.sno{
+    width: 40px;
+}
+
+.itemname{
+    width: 400px;
+}
+
+.quantity{
+    width: 100px;
+}
+
+.price{
+    width: 100px;
+}
+
+#name,#phone{
+    padding: 5px;
+    margin: 10px;
+    width: 200px;
+}
+
+.customer1,.customer2{
+    text-transform: capitalize;
+    display: inline-block;
+}
+
+.customer1{
+    margin-right: 500px;
+    text-align: left;
+}
+
+.total{
+    margin: 20px;
+    padding: 10px;  
+    text-align: right; 
+}
